@@ -2,15 +2,15 @@
 **Target:** TBD  
 
 ---
-
 <table>
   <tr>
     <td valign="top" style="width: 35%;">
       <h2>Site Map</h2>
-      <a href="#">Homepage</a><br>
+      <a href="#">Revisions</a><br><br>     
+      Homepage<br>
       &nbsp;&nbsp;<a href="#">Authentication</a><br>
       &nbsp;&nbsp;<a href="#">Sign up</a><br><br>
-      <a href="#">Products Page</a><br>
+      Products Page<br>
       &nbsp;&nbsp;<a href="#">Add item</a><br>
       &nbsp;&nbsp;<a href="#">Edit item</a><br>
       &nbsp;&nbsp;<a href="#">Delete item</a><br>
@@ -25,10 +25,10 @@
       &nbsp;&nbsp;<a href="#">Edit supplier</a><br>
       &nbsp;&nbsp;<a href="#">Delete supplier</a><br>
       &nbsp;&nbsp;<a href="#">Create Inventory Report</a><br><br>
-      <a href="#">Finance Page</a><br>
+      Finance Page<br>
       &nbsp;&nbsp;<a href="#">Create Report</a><br>
       &nbsp;&nbsp;<a href="#">Create Audit</a><br><br>
-      <a href="#">Accounts Page</a><br>
+      Accounts Page<br>
       &nbsp;&nbsp;<a href="#">Create Admin Account</a><br>
     </td>
     <td valign="top" style="width: 65%;">
