@@ -28,19 +28,25 @@
       <a href="#">Authentication</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Sign up</a><br>
       <a href="#">Products Page</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add item dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit item dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete item dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add inventory dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Browse inventories dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit inventory dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete inventory dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add category dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit category dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete category dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add supplier dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit supplier dialog</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete supplier dialog</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add item </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit item </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete item </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add inventory </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Browse inventories </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit inventory </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete inventory </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add category </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit category </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete category </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add supplier </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit supplier </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete supplier </a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Inventory Report</a><br>
+      <a href ="#">Finance Page</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Report</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Audit</a><br>
+      <a href = "#">Accounts Page</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Admin Account</a><br>
     </td>
   </tr>
 
