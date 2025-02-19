@@ -7,29 +7,29 @@
   <tr>
     <td valign="top" style="width: 35%;">
       <h2>Site Map</h2>
-      <p><a href="#">Homepage</a></p>
-      <p><a href="#">Authentication</a></p>
-      <p style="margin-left: 20px;"><a href="#">Sign up</a></p>
-      <p><a href="#">Products Page</a></p>
-      <p style="margin-left: 20px;"><a href="#">Add item</a></p>
-      <p style="margin-left: 20px;"><a href="#">Edit item</a></p>
-      <p style="margin-left: 20px;"><a href="#">Delete item</a></p>
-      <p style="margin-left: 20px;"><a href="#">Add inventory</a></p>
-      <p style="margin-left: 20px;"><a href="#">Browse inventories</a></p>
-      <p style="margin-left: 20px;"><a href="#">Edit inventory</a></p>
-      <p style="margin-left: 20px;"><a href="#">Delete inventory</a></p>
-      <p style="margin-left: 20px;"><a href="#">Add category</a></p>
-      <p style="margin-left: 20px;"><a href="#">Edit category</a></p>
-      <p style="margin-left: 20px;"><a href="#">Delete category</a></p>
-      <p style="margin-left: 20px;"><a href="#">Add supplier</a></p>
-      <p style="margin-left: 20px;"><a href="#">Edit supplier</a></p>
-      <p style="margin-left: 20px;"><a href="#">Delete supplier</a></p>
-      <p style="margin-left: 20px;"><a href="#">Create Inventory Report</a></p>
-      <p><a href="#">Finance Page</a></p>
-      <p style="margin-left: 20px;"><a href="#">Create Report</a></p>
-      <p style="margin-left: 20px;"><a href="#">Create Audit</a></p>
-      <p><a href="#">Accounts Page</a></p>
-      <p style="margin-left: 20px;"><a href="#">Create Admin Account</a></p>
+      <a href="#">Homepage</a><br>
+      &nbsp;&nbsp;<a href="#">Authentication</a><br>
+      &nbsp;&nbsp;<a href="#">Sign up</a><br><br>
+      <a href="#">Products Page</a><br>
+      &nbsp;&nbsp;<a href="#">Add item</a><br>
+      &nbsp;&nbsp;<a href="#">Edit item</a><br>
+      &nbsp;&nbsp;<a href="#">Delete item</a><br>
+      &nbsp;&nbsp;<a href="#">Add inventory</a><br>
+      &nbsp;&nbsp;<a href="#">Browse inventories</a><br>
+      &nbsp;&nbsp;<a href="#">Edit inventory</a><br>
+      &nbsp;&nbsp;<a href="#">Delete inventory</a><br>
+      &nbsp;&nbsp;<a href="#">Add category</a><br>
+      &nbsp;&nbsp;<a href="#">Edit category</a><br>
+      &nbsp;&nbsp;<a href="#">Delete category</a><br>
+      &nbsp;&nbsp;<a href="#">Add supplier</a><br>
+      &nbsp;&nbsp;<a href="#">Edit supplier</a><br>
+      &nbsp;&nbsp;<a href="#">Delete supplier</a><br>
+      &nbsp;&nbsp;<a href="#">Create Inventory Report</a><br><br>
+      <a href="#">Finance Page</a><br>
+      &nbsp;&nbsp;<a href="#">Create Report</a><br>
+      &nbsp;&nbsp;<a href="#">Create Audit</a><br><br>
+      <a href="#">Accounts Page</a><br>
+      &nbsp;&nbsp;<a href="#">Create Admin Account</a><br>
     </td>
     <td valign="top" style="width: 65%;">
       <h2>Revisions</h2>
