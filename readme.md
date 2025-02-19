@@ -48,4 +48,6 @@
 
 ---
 
-© 2025 [Business Name](#)
+<div align="center">
+  © 2025 <a href="#">NexTech</a>
+</div>
