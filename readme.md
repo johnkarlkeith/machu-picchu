@@ -1,17 +1,41 @@
+# Macchu Pichu  
+**Target:** TBD  
+
+---
+
 <table>
   <tr>
-    <td colspan="3">
-      <h1>Macchu Pichu</h1>
-      <b>Target:</b> TBD
+    <td valign="top" style="width: 35%;">
+      <h2>Site Map</h2>
+      <p><a href="#">Homepage</a></p>
+      <p><a href="#">Authentication</a></p>
+      <p style="margin-left: 20px;"><a href="#">Sign up</a></p>
+      <p><a href="#">Products Page</a></p>
+      <p style="margin-left: 20px;"><a href="#">Add item</a></p>
+      <p style="margin-left: 20px;"><a href="#">Edit item</a></p>
+      <p style="margin-left: 20px;"><a href="#">Delete item</a></p>
+      <p style="margin-left: 20px;"><a href="#">Add inventory</a></p>
+      <p style="margin-left: 20px;"><a href="#">Browse inventories</a></p>
+      <p style="margin-left: 20px;"><a href="#">Edit inventory</a></p>
+      <p style="margin-left: 20px;"><a href="#">Delete inventory</a></p>
+      <p style="margin-left: 20px;"><a href="#">Add category</a></p>
+      <p style="margin-left: 20px;"><a href="#">Edit category</a></p>
+      <p style="margin-left: 20px;"><a href="#">Delete category</a></p>
+      <p style="margin-left: 20px;"><a href="#">Add supplier</a></p>
+      <p style="margin-left: 20px;"><a href="#">Edit supplier</a></p>
+      <p style="margin-left: 20px;"><a href="#">Delete supplier</a></p>
+      <p style="margin-left: 20px;"><a href="#">Create Inventory Report</a></p>
+      <p><a href="#">Finance Page</a></p>
+      <p style="margin-left: 20px;"><a href="#">Create Report</a></p>
+      <p style="margin-left: 20px;"><a href="#">Create Audit</a></p>
+      <p><a href="#">Accounts Page</a></p>
+      <p style="margin-left: 20px;"><a href="#">Create Admin Account</a></p>
     </td>
-  </tr>
-
-  <tr>
-    <td><a href="#">Revisions</a></td>
-    <td colspan="2" rowspan="2">
-      <table>
+    <td valign="top" style="width: 65%;">
+      <h2>Revisions</h2>
+      <table border="1" cellspacing="0" cellpadding="5">
         <tr>
-          <th>Revision Date</th>
+          <th style="width: 30%;">Revision Date</th>
           <th>Document Version</th>
           <th>Description</th>
           <th>Tracking Notes</th>
@@ -20,39 +44,8 @@
       </table>
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <b>Site Map</b><br>
-      <a href="#">Homepage</a><br>
-      <a href="#">Authentication</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Sign up</a><br>
-      <a href="#">Products Page</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add item</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit item</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete item</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add inventory</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Browse inventories</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit inventory</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete inventory</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add category</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit category</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete category</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Add supplier</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Edit supplier</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Delete supplier</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Inventory Report</a><br>
-      <a href="#">Finance Page</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Report</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Audit</a><br>
-      <a href="#">Accounts Page</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Create Admin Account</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="3" align="center">
-      &copy; 2025 <a href="#">Business Name</a>
-    </td>
-  </tr>
 </table>
+
+---
+
+© 2025 [Business Name](#)
