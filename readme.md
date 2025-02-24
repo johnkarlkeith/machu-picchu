@@ -10,7 +10,7 @@
       <h2>Site Map</h2>
       <a href="#">Revisions</a><br><br>     
       Homepage<br>
-      &nbsp;&nbsp;<a href="/docs/log-in.txt">Log in</a><br>
+      &nbsp;&nbsp;<a href="./docs/log-in.md">Log in</a><br>
       &nbsp;&nbsp;<a href="#">Sign up</a><br><br>
       Products Page<br>
       &nbsp;&nbsp;<a href="#">Add item</a><br>
