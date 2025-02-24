@@ -67,8 +67,8 @@
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
-          <td><strong>Invalid Credentials</strong>: System shows an error message</td>
-          <td><strong>Email already used</strong>: System shows email already used error message</td>
+          <td><strong>Invalid Credentials</strong>: System shows an error message</td><br>
+          <strong>Email already used</strong>: System shows email already used error message
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
