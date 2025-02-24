@@ -9,7 +9,7 @@
     <td valign="top" style="width: 35%;">
       <h2>Site Map</h2>
       <a href="#">Revisions</a><br><br>     
-      Homepage<br>
+      Admin Homepage<br>
       &nbsp;&nbsp;<a href="./docs/sign-in.md">Sign in</a><br>
       &nbsp;&nbsp;<a href="#">Sign up</a><br><br>
       Products Page<br>

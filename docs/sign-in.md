@@ -35,7 +35,7 @@
     </td>
     <td valign="top" >
       <h6> Admin Homepage > Sign in </h6>
-        <img src = "./log-in.png" />
+        <img src = "./sign-in.png" />
       <h3>Sign in</h3>
       <p>This serves as the main authentication page for admins to access the Honesty Store.</p>
       <table border="1">
