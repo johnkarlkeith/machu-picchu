@@ -10,7 +10,7 @@
       <h2>Site Map</h2>
       <a href="../readme.md">Revisions</a><br><br>     
       Admin Homepage<br>
-      &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br>
+      &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br><br>
       Products Page<br>
       &nbsp;&nbsp;<a href="./add-item.md">Add item</a><br>
       &nbsp;&nbsp;<a href="./edit-item.md">Edit item</a><br>
@@ -33,14 +33,14 @@
       &nbsp;&nbsp;<a href="./create-admin-account">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Admin Homepage > Sign in </h6>
-        <img src = "./mock-ups/sign-in.png" />
-      <h3>Sign in</h3>
-      <p>This serves as the main authentication page for admins to access the Honesty Store.</p>
+      <h6> Accounts Page > Create Admin Account </h6>
+        <img src = "./mock-ups/create-admin-account.png" />
+      <h3>Create Admin Account</h3>
+      <p>This serves as the means to create new admin accounts. <strong>Only accessible by CEO-level privilege</strong></p>
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Sign in</th>
+          <th>Create Admin Account</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -48,30 +48,31 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td>User must have an existing account</td>
+          <td>Current logged-in user must have CEO-level privilege</td>
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the 'Sign In' button.</td>
+          <td>User clicks the 'Create Account' button</td>
         </tr>
         <tr>
           <td><b>Basic Flow</b></td>
           <td>
             <ol>
-              <li>User enters email & password.</li>
-              <li>User clicks 'Sign-in'</li>
+              <li>User selects a picture for the account</li>
+              <li>User enters the email, name, and password of the account to be created</li>
               <li>System validates credentials</li>
-              <li>If valid, system redirects to the admin dashboard</li>
+              <li>If valid, system creates the account and stores into account database</li>
             </ol>
           </td>
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
           <td><strong>Invalid Credentials</strong>: System shows an error message</td>
+          <td><strong>Email already used</strong>: System shows email already used error message</td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
-          <td>User is logged in and can access their account.</td>
+          <td>A new admin account is created and ready to use</td>
         </tr>
         <tr>
           <td><b>Exceptions</b></td>
