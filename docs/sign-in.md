@@ -1,7 +1,9 @@
-# Macchu Pichu  
-**Target:** TBD  
+# Macchu Pichu
+
+**Target:** TBD
 
 ---
+
 <table>
   <tr>
     <td valign="top" style="width: 35%;">
@@ -32,16 +34,40 @@
       &nbsp;&nbsp;<a href="#">Create Admin Account</a><br>
     </td>
     <td valign="top" style="width: 65%;">
-      <h2>Revisions</h2>
-      <table border="1" cellspacing="0" cellpadding="5">
+      <h6> Admin Homepage > Log in </h6>
+        <img src = "./log-in.png" />
+      <h3>Log in</h3>
+      <p>This serves as the main authentication page for admins to access the Honesty Store.</p>
+      <table >
         <tr>
-          <th style="width: 30%;">Revision Date</th>
-          <th>Document Version</th>
-          <th>Description</th>
-          <th>Tracking Notes</th>
-          <th>Approved By</th>
+          <th>Use Case</th>
+          <th></th>
         </tr>
-      </table>
+        <tr>
+          <td><b>Actors</b></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>Preconditions</b></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>Basic Flow</b></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>Alternative Flow</b></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>Postconditions</b></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>Exceptions</b></td>
+          <td></td>
+        </tr>
+        </table>
     </td>
   </tr>
 </table>
