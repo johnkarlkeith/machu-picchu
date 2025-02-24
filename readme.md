@@ -29,7 +29,7 @@
       Finance Page<br>
       &nbsp;&nbsp;<a href="./docs/create-report.md">Create Report</a><br>
       &nbsp;&nbsp;<a href="./docs/create-audit.md">Create Audit</a><br><br>
-      Accounts Page<br>
+      Manage Accounts Page<br>
       &nbsp;&nbsp;<a href="./docs/create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" style="width: 65%;">

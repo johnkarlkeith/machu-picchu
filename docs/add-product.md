@@ -33,14 +33,14 @@
       &nbsp;&nbsp;<a href="./create-admin-account">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Accounts Page > Create Admin Account </h6>
-        <img src = "./mock-ups/create-admin-account.png" />
+      <h6> Products Page > Add product </h6>
+        <img src = "./mock-ups/add-product.png" />
       <h3>Create Admin Account</h3>
-      <p>This serves as the means to create new admin accounts. <strong>Only accessible by CEO-level privilege</strong></p>
+      <p>This modal serves as a means to create new products in the system.</p>
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Create Admin Account</th>
+          <th>Add product</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -48,43 +48,49 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td>Current logged-in user must have CEO-level privilege</td>
+          <td>Current user must be logged in<br>
+            Current user must be in the products page
+          </td>
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the 'Create Account' button</td>
+          <td>User clicks the 'Add product' button</td>
         </tr>
         <tr>
           <td><b>Basic Flow</b></td>
           <td>
             <ol>
-              <li><strong>(optional)</strong> User selects a picture for the account</li>
-              <li>User enters the email, name, and password of the account to be created</li>
-              <li>System validates credentials</li>
-              <li>If valid, system creates the account and stores into account database</li>
+              <li>User enters in the product name</li>
+              <li>User queries for existing categories and clicks on a result from a dropdown to select it</li>
+              <li>User selects a product image</li>
+              <li>User fills in other optional fields</li>
+              <li>User may opt to set the 'reorder point' field manually by checking the 'set manual reorder point' checkbox. This will make the 'reorder point' field required</li>
             </ol>
           </td>
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
-          <td><strong>Invalid Credentials</strong>: System shows an error message<br>
-          <strong>Email already used</strong>: System shows email already used error message<br>
-          <strong>Account created without selecting an image</strong>: Account is still created but with default image as profile picture</strong>
+          <td>
+            <strong>Form submitted with empty optional fields</strong>: Product will be created but with empty optional fields in data
           </td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
-          <td>A new admin account is created and ready to use</td>
+          <td>
+            A new product will be created and ready to use in the products page
+          </td>
         </tr>
         <tr>
           <td><b>Exceptions</b></td>
-          <td>Server is down → System shows error message</td>
+          <td>Server is down → System will display an error message<br>
+           Incomplete form submission → System will highlight missing required fields
+          </td>
         </tr>
         </table>
         <table>
         <tr>
           <th>Use Case</th>
-          <th>Upload profile picture during sign-up</th>
+          <th>Upload product image</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -94,8 +100,7 @@
           <td><b>Preconditions</b></td>
           <td>
             <ul>
-              <li>User has CEO-level privilege</li>
-              <li>User is on the Manage Accounts page</li>
+              <li>User is on the Products page</li>
               <li>User has access to an image file on their device</li>
             </ul>
           </td>
@@ -121,7 +126,7 @@
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
-          <td>Image is now displayed on admin account creation form</td>
+          <td>Image is now displayed on admin product creation form</td>
         </tr>
         <tr>
           <td><b>Exceptions</b></td>
