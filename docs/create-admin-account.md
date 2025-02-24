@@ -84,7 +84,7 @@
         <table>
         <tr>
           <th>Use Case</th>
-          <th>Upload profile picture during sign-up</th>
+          <th>Upload profile picture during admin account creation</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
