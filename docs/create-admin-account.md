@@ -28,9 +28,9 @@
       &nbsp;&nbsp;<a href="./create-inventory-report.md">Create Inventory Report</a><br><br>
       Finance Page<br>
       &nbsp;&nbsp;<a href="./create-report.md">Create Report</a><br>
-      &nbsp;&nbsp;<a href="./create-audit">Create Audit</a><br><br>
+      &nbsp;&nbsp;<a href="./create-audit.md">Create Audit</a><br><br>
       Manage Accounts Page<br>
-      &nbsp;&nbsp;<a href="./create-admin-account">Create Admin Account</a><br><br>
+      &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
       <h6> Accounts Page > Create Admin Account </h6>

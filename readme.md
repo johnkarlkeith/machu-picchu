@@ -12,9 +12,9 @@
       Admin Homepage<br>
       &nbsp;&nbsp;<a href="./docs/sign-in.md">Sign in</a><br><br>
       Products Page<br>
-      &nbsp;&nbsp;<a href="./docs/add-item.md">Add item</a><br>
-      &nbsp;&nbsp;<a href="./docs/edit-item.md">Edit item</a><br>
-      &nbsp;&nbsp;<a href="./docs/delete-item.md">Delete item</a><br>
+      &nbsp;&nbsp;<a href="./docs/add-product.md">Add product</a><br>
+      &nbsp;&nbsp;<a href="./docs/edit-product.md">Edit product</a><br>
+      &nbsp;&nbsp;<a href="./docs/delete-product.md">Delete product</a><br>
       &nbsp;&nbsp;<a href="./docs/add-inventory.md">Add inventory</a><br>
       &nbsp;&nbsp;<a href="./docs/browse-inventory.md">Browse inventories</a><br>
       &nbsp;&nbsp;<a href="./docs/edit-inventory.md">Edit inventory</a><br>

@@ -12,9 +12,9 @@
       Admin Homepage<br>
       &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br>
       Products Page<br>
-      &nbsp;&nbsp;<a href="./add-item.md">Add item</a><br>
-      &nbsp;&nbsp;<a href="./edit-item.md">Edit item</a><br>
-      &nbsp;&nbsp;<a href="./delete-item.md">Delete item</a><br>
+      &nbsp;&nbsp;<a href="./add-product.md">Add product</a><br>
+      &nbsp;&nbsp;<a href="./edit-product.md">Edit product</a><br>
+      &nbsp;&nbsp;<a href="./delete-product.md">Delete product</a><br>
       &nbsp;&nbsp;<a href="./add-inventory.md">Add inventory</a><br>
       &nbsp;&nbsp;<a href="./browse-inventory.md">Browse inventories</a><br>
       &nbsp;&nbsp;<a href="./edit-inventory.md">Edit inventory</a><br>
@@ -28,9 +28,9 @@
       &nbsp;&nbsp;<a href="./create-inventory-report.md">Create Inventory Report</a><br><br>
       Finance Page<br>
       &nbsp;&nbsp;<a href="./create-report.md">Create Report</a><br>
-      &nbsp;&nbsp;<a href="./create-audit">Create Audit</a><br><br>
+      &nbsp;&nbsp;<a href="./create-audit.md">Create Audit</a><br><br>
       Manage Accounts Page<br>
-      &nbsp;&nbsp;<a href="./create-admin-account">Create Admin Account</a><br><br>
+      &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
       <h6> Admin Homepage > Sign in </h6>
