@@ -71,13 +71,13 @@
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Form submitted with empty optional fields</strong>: Product will be created but <br> with optional fields will be empty in the database
+            <strong>Form submitted with empty description field</strong>: category will be created but<br> description field will be empty in the database
           </td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
           <td>
-            A new product will be created and ready to use in the products page
+            A new category will be created and ready to use in the products page
           </td>
         </tr>
         <tr>

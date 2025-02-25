@@ -77,7 +77,7 @@
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Form submitted with empty optional fields</strong>: Inventory will be created<br> but the description field will be empty in the database
+            <strong>Form submitted with empty description field</strong>: Inventory will be created<br> but the description field will be empty in the database
           </td>
         </tr>
         <tr>
