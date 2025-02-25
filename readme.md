@@ -4,6 +4,12 @@
 
 ---
 
+<!--
+TODO: create use cases for:
+- Going to Google sheets
+- Browsing previously generated reports
+-->
+
 <table>
   <tr>
     <td valign="top" style="width: 35%;">
@@ -23,7 +29,7 @@
       &nbsp;&nbsp;<a href="./docs/edit-category.md">Edit category</a><br>
       &nbsp;&nbsp;<a href="./docs/delete-category.md">Delete category</a><br>
       &nbsp;&nbsp;<a href="./docs/add-supplier.md">Add supplier</a><br>
-      &nbsp;&nbsp;<a href="./docs/edit-suppplier.md">Edit supplier</a><br>
+      &nbsp;&nbsp;<a href="./docs/edit-supplier.md">Edit supplier</a><br>
       &nbsp;&nbsp;<a href="./docs/delete-supplier.md">Delete supplier</a><br>
       &nbsp;&nbsp;<a href="./docs/create-inventory-report.md">Create Inventory Report</a><br><br>
       Manage page<br>

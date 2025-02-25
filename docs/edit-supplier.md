@@ -23,7 +23,7 @@
       &nbsp;&nbsp;<a href="./edit-category.md">Edit category</a><br>
       &nbsp;&nbsp;<a href="./delete-category.md">Delete category</a><br>
       &nbsp;&nbsp;<a href="./add-supplier.md">Add supplier</a><br>
-      &nbsp;&nbsp;<a href="./edit-suppplier.md">Edit supplier</a><br>
+      &nbsp;&nbsp;<a href="./edit-supplier.md">Edit supplier</a><br>
       &nbsp;&nbsp;<a href="./delete-supplier.md">Delete supplier</a><br>
       &nbsp;&nbsp;<a href="./create-inventory-report.md">Create Inventory Report</a><br><br>
       Manage page<br>
