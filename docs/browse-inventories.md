@@ -10,7 +10,7 @@
       <h2>Site Map</h2>
       <a href="../readme.md">Revisions</a><br><br>     
       Admin Homepage<br>
-      &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br>
+      &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br><br>
       Products Page<br>
       &nbsp;&nbsp;<a href="./add-product.md">Add product</a><br>
       &nbsp;&nbsp;<a href="./edit-product.md">Edit product</a><br>
@@ -33,14 +33,14 @@
       &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Admin Homepage > Sign in </h6>
-        <img src = "./mock-ups/sign-in.png" width='720' height='365'/>
-      <h3>Sign in</h3>
-      <p>This serves as the main authentication page for admins to access the Honesty Store.</p>
+      <h6> Products Page > Browse Inventories </h6>
+        <img src = "./mock-ups/browse-inventories.png" width='720' height='365'/>
+      <h3>Browse inventories</h3>
+      <p>This modal serves as a means to see the inventories of a product in the system and view each inventory's info.</p>
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Sign in</th>
+          <th>Browse inventories</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -48,34 +48,40 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td><ul><li>User must have an existing account</li></ul></td>
+          <td><ul>
+              <li>Current user must be logged in</li>
+                <li>Current user must be in the products page</li>
+          </ul>
+          </td>
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the 'Sign In' button.</td>
+          <td>User clicks the pencil icon at the top right of a product and clicks on 'edit inventories' option in the dropdown that appears</td>
         </tr>
         <tr>
           <td><b>Basic Flow</b></td>
           <td>
-            <ol>
-              <li>User enters email & password.</li>
-              <li>User clicks 'Sign-in'</li>
-              <li>System validates credentials</li>
-              <li>If valid, system redirects to the admin dashboard</li>
-            </ol>
+            <ul>
+                <li>User clicks on an inventory of a product to view the information of an inventory</li>
+            </ul>
           </td>
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
-          <td><strong>Invalid Credentials</strong>: System shows an error message</td>
+          <td>
+            <strong>Edit is clicked on an inventory</strong>: This leads the user to the edit inventory modal discussed in detail <a href="./edit-inventory">here</a>
+          </td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
-          <td>User is logged in and can access their account.</td>
+          <td>
+            User will be able to see the info of every inventory created for a product
+          </td>
         </tr>
         <tr>
           <td><b>Exceptions</b></td>
-          <td>Server is down → System shows error message</td>
+          <td>Server is down → System will display an error message<br>
+          </td>
         </tr>
         </table>
     </td>

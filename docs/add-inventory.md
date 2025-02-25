@@ -34,7 +34,7 @@
     </td>
     <td valign="top" >
       <h6> Products Page > Add inventory </h6>
-        <img src = "./mock-ups/add-inventory.png" />
+        <img src = "./mock-ups/add-inventory.png" width='720' height='365'/>
       <h3>Add inventory</h3>
       <p>This modal serves as a means to add an inventory to a product in the system.</p>
       <table border="1">

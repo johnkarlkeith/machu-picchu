@@ -34,7 +34,7 @@
     </td>
     <td valign="top" >
       <h6> Products Page > Edit product </h6>
-        <img src = "./mock-ups/edit-product.png" />
+        <img src = "./mock-ups/edit-product.png" width='720' height='365'/>
       <h3>Edit Product</h3>
       <p>This modal serves as a means to edit existing products in the system.</p>
       <table border="1">

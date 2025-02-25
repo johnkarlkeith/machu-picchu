@@ -34,7 +34,7 @@
     </td>
     <td valign="top" >
       <h6> Accounts Page > Create Admin Account </h6>
-        <img src = "./mock-ups/create-admin-account.png" />
+        <img src = "./mock-ups/create-admin-account.png" width='720' height='365'/>
       <h3>Create Admin Account</h3>
       <p>This serves as the means to create new admin accounts. <strong>Only accessible by CEO-level privilege</strong></p>
       <table border="1">
