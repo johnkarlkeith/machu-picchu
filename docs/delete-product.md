@@ -40,7 +40,7 @@
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Delete</th>
+          <th>Delete Product</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
