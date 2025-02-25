@@ -83,7 +83,7 @@
         <tr>
           <td><b>Postconditions</b></td>
           <td>
-            The inventory will be edited and stored in the system 
+            The edited inventory information will be stored and reflected in the system 
           </td>
         </tr>
         <tr>

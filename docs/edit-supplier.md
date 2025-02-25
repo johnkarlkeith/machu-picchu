@@ -33,14 +33,14 @@
       &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Products Page > Edit category </h6>
-        <img src = "./mock-ups/add-category.png" width='720' height='365'/>
-      <h3>Edit category</h3>
-      <p>This modal serves as a means to edit existing categories in the system.</p>
+      <h6> Products Page > Edit supplier </h6>
+        <img src = "./mock-ups/edit-supplier.png" width='720' height='365'/>
+      <h3>Edit supplier</h3>
+      <p>This modal serves as a means to edit an supplier of a product in the system.</p>
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Edit category</th>
+          <th>Edit supplier</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -49,22 +49,21 @@
         <tr>
           <td><b>Preconditions</b></td>
           <td><ul>
-            <li>Current user must be logged in</li>
-              <li>Current user must be in the products page</li>
+              <li>Current user must be logged in</li>
+                <li>Current user must be in the products page</li>
           </ul>
           </td>
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the pencil icon after selecting the category<br> 
-          they want to edit in the filter bar</td>
-        </tr>
+        <td>User clicks the pencil icon after selecting the supplier<br> 
+          they want to edit in the filter bar</td></tr>
         <tr>
           <td><b>Basic Flow</b></td>
           <td>
             <ol>
-              <li>User enters in the category name</li>
-              <li>User selects a product image</li>
+              <li>User enters in the new supplier name</li>
+              <li>User enters the new supplier contact</li>
               <li>User fills in other optional fields</li>
             </ol>
           </td>
@@ -72,66 +71,20 @@
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Form submitted with empty description field</strong>: cateogry will be edited but<br> description field will be empty in the database
+            <strong>Form submitted with empty optional fields</strong>: Inventory will be created<br> but the optional fields will be empty in the database
           </td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
           <td>
-            The edited category information will stored and reflected in the system
+            The edited supplier information will be stored and reflected in the system
           </td>
         </tr>
         <tr>
           <td><b>Exceptions</b></td>
           <td>Server is down → System will display an error message<br>
-           Incomplete form submission → System will highlight missing required fields
+          Submitting with missing required fields → System will highlight missing required <br>fields
           </td>
-        </tr>
-        </table>
-        <table>
-        <tr>
-          <th>Use Case</th>
-          <th>Upload category image</th>
-        </tr>
-        <tr>
-          <td><b>Actors</b></td>
-          <td>User (primary), System (secondary)</td>
-        </tr>
-        <tr>
-          <td><b>Preconditions</b></td>
-          <td>
-            <ul>
-              <li>User is on the Products page</li>
-              <li>User has access to an image file on their device</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>Triggers</td>
-          <td>User clicks the 'Select a picture' button</td>
-        </tr>
-        <tr>
-          <td><b>Basic Flow</b></td>
-          <td>
-            <ol>
-              <li>User clicks on 'Select a picture' button</li>
-              <li>User selects an image from the system file selection dialog</li>
-              <li>System displays the image in category creation form</li>
-            </ol>
-          </td>
-        </tr>
-        <tr>
-          <td><b>Alternative Flow</b></td>
-          <td><strong>Image selection aborted</strong>: No image is selected, no changes will be observed<br>
-          </td>
-        </tr>
-        <tr>
-          <td><b>Postconditions</b></td>
-          <td>Image is now displayed on admin category creation form</td>
-        </tr>
-        <tr>
-          <td><b>Exceptions</b></td>
-          <td>Selected file is not an image → System shows error message</td>
         </tr>
         </table>
     </td>
