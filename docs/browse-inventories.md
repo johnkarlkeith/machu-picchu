@@ -56,7 +56,7 @@
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the pencil icon at the top right of a product and clicks on 'edit inventories' option <br> in the dropdown that appears</td>
+          <td>User clicks the pencil icon at the top right of a product <br> and clicks on 'edit inventories' option  in the dropdown that appears</td>
         </tr>
         <tr>
           <td><b>Basic Flow</b></td>
