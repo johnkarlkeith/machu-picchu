@@ -33,10 +33,10 @@
       &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Products Page > Add product </h6>
-        <img src = "./mock-ups/add-product.png" />
-      <h3>Add Product</h3>
-      <p>This modal serves as a means to create new products in the system.</p>
+      <h6> Products Page > Edit product </h6>
+        <img src = "./mock-ups/edit-product.png" />
+      <h3>Edit Product</h3>
+      <p>This modal serves as a means to edit existing products in the system.</p>
       <table border="1">
         <tr>
           <th>Use Case</th>
@@ -49,35 +49,35 @@
         <tr>
           <td><b>Preconditions</b></td>
           <td>Current user must be logged in<br>
-            Current user must be in the products page
+            Current user must be in the products page<br>
+            There must be at least one existing product in the system
           </td>
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the 'Add product' button</td>
+          <td>User clicks the pencil icon on a displayed product<br>
+            User clicks on 'edit product' on dropdown that appears
+          </td>
         </tr>
         <tr>
           <td><b>Basic Flow</b></td>
           <td>
             <ol>
-              <li>User enters in the product name</li>
-              <li>User queries for existing categories and clicks on a result from a dropdown to select it</li>
-              <li>User selects a product image</li>
-              <li>User fills in other optional fields</li>
-              <li>User may opt to set the 'reorder point' field manually by checking the 'set manual reorder point' checkbox. This will make the 'reorder point' field required</li>
+              <li>User edits the fields that they wish to change</li>
+              <li>User submits the form with the edited prodcut information</li>
             </ol>
           </td>
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Form submitted with empty optional fields</strong>: Product will be created but with optional fields will be empty in the database
+            <strong>Form submitted with empty optional fields</strong>: Product information will be submitted but with optional fields will be empty in the database
           </td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
           <td>
-            A new product will be created and ready to use in the products page
+            The product still exists in the system, but with altered information
           </td>
         </tr>
         <tr>
@@ -90,7 +90,7 @@
         <table>
         <tr>
           <th>Use Case</th>
-          <th>Upload product image</th>
+          <th>Change product image</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -126,7 +126,7 @@
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
-          <td>Image is now displayed on admin product creation form</td>
+          <td>The newly selected image is now displayed on admin product edit form</td>
         </tr>
         <tr>
           <td><b>Exceptions</b></td>
