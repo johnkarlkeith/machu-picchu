@@ -34,7 +34,7 @@
     </td>
     <td valign="top" >
       <h6> Products Page > Delete product </h6>
-        <img src = "./mock-ups/delete-product.png" width='480' height='243'/>
+        <img src = "./mock-ups/delete-product.png" width='720' height='365'/>
       <h3>Delete Product</h3>
       <p>This modal serves as a means to delete products in the system.</p>
       <table border="1">
