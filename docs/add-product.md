@@ -66,7 +66,7 @@
               <li>User queries for existing categories and <br>clicks on a result from a dropdown to select it</li>
               <li>User selects a product image</li>
               <li>User fills in other optional fields</li>
-              <li>User may opt to set the 'reorder point' field manually  <br> by checking the 'set manual reorder point' checkbox. This will make the <br>'reorder point' field required</li>
+              <li>User may opt to set the 'reorder point' field manually by checking<br> the 'set manual reorder point' checkbox. This will make the <br>'reorder point' field required</li>
             </ol>
           </td>
         </tr>
