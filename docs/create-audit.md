@@ -26,14 +26,14 @@
       &nbsp;&nbsp;<a href="./edit-suppplier.md">Edit supplier</a><br>
       &nbsp;&nbsp;<a href="./delete-supplier.md">Delete supplier</a><br>
       &nbsp;&nbsp;<a href="./create-inventory-report.md">Create Inventory Report</a><br><br>
-      Finance Page<br>
+      Manage page<br>
       &nbsp;&nbsp;<a href="./create-report.md">Create Report</a><br>
       &nbsp;&nbsp;<a href="./create-audit.md">Create Audit</a><br><br>
       Manage Accounts Page<br>
       &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Finance Page > Create Audit </h6>
+      <h6> Manage page > Create Audit </h6>
         <img src = "./mock-ups/create-audit.png" width='720' height='365'/>
       <h3>Create Audit</h3>
       <p>This serves to be the input for auditing the products in the Honesty Store.</p>

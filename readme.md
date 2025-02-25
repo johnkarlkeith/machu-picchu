@@ -26,7 +26,7 @@
       &nbsp;&nbsp;<a href="./docs/edit-suppplier.md">Edit supplier</a><br>
       &nbsp;&nbsp;<a href="./docs/delete-supplier.md">Delete supplier</a><br>
       &nbsp;&nbsp;<a href="./docs/create-inventory-report.md">Create Inventory Report</a><br><br>
-      Finance Page<br>
+      Manage page<br>
       &nbsp;&nbsp;<a href="./docs/create-report.md">Create Report</a><br>
       &nbsp;&nbsp;<a href="./docs/create-audit.md">Create Audit</a><br><br>
       Manage Accounts Page<br>
