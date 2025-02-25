@@ -74,7 +74,7 @@
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Form submitted with empty optional fields</strong>: Product information will be submitted but with optional fields will be empty in the database
+            <strong>Form submitted with empty optional fields</strong>: Product information will be submitted <br>but with optional fields will be empty in the database
           </td>
         </tr>
         <tr>
