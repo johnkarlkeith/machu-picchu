@@ -36,7 +36,7 @@
       <h6> Products Page > Browse Inventories </h6>
         <img src = "./mock-ups/browse-inventories.png" width='720' height='365'/>
       <h3>Browse inventories</h3>
-      <p>This modal serves as a means to see the inventories of a product in the system and view each inventory's info.</p>
+      <p>This modal serves as a means to see the inventories of a product in the system <br>and view each inventory's info.</p>
       <table border="1">
         <tr>
           <th>Use Case</th>
