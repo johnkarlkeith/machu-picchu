@@ -83,7 +83,7 @@
         <tr>
           <td><b>Exceptions</b></td>
           <td>Server is down → System will display an error message<br>
-           Incomplete form submission → System will highlight missing required fields
+           Incomplete form submission → System will highlight missing required fields <br>
            No inventories within date span → System will display a message stating that <br>
            no inventories have been created in the date span 
           </td>
