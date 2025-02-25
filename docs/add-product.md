@@ -63,17 +63,17 @@
           <td>
             <ol>
               <li>User enters in the product name</li>
-              <li>User queries for existing categories and clicks on a result from a dropdown to select it</li>
+              <li>User queries for existing categories and <br>clicks on a result from a dropdown to select it</li>
               <li>User selects a product image</li>
               <li>User fills in other optional fields</li>
-              <li>User may opt to set the 'reorder point' field manually by checking the 'set manual reorder point' checkbox. This will make the 'reorder point' field required</li>
+              <li>User may opt to set the 'reorder point' field manually  <br> by checking the 'set manual reorder point' checkbox. This will make the <br>'reorder point' field required</li>
             </ol>
           </td>
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Form submitted with empty optional fields</strong>: Product will be created but with optional fields will be empty in the database
+            <strong>Form submitted with empty optional fields</strong>: Product will be created but <br> with optional fields will be empty in the database
           </td>
         </tr>
         <tr>
