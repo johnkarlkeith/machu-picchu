@@ -48,8 +48,10 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td>Current user must be logged in<br>
-            Current user must be in the products page
+          <td><ul>
+            <li>Current user must be logged in</li>
+              <li>Current user must be in the products page</li>
+          </ul>
           </td>
         </tr>
         <tr>
@@ -94,7 +96,7 @@
         </tr>
         <tr>
           <td><b>Actors</b></td>
-          <td>User</td>
+          <td>User (primary), System (secondary)</td>
         </tr>
         <tr>
           <td><b>Preconditions</b></td>

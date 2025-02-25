@@ -40,7 +40,7 @@
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Add product</th>
+          <th>Edit product</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -97,7 +97,7 @@
         </tr>
         <tr>
           <td><b>Actors</b></td>
-          <td>User</td>
+          <td>User (primary), System (secondary)</td>
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
