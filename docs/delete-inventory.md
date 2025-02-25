@@ -33,14 +33,14 @@
       &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Products Page > Delete product </h6>
-        <img src = "./mock-ups/delete-product.png" width='720' height='365'/>
-      <h3>Delete Product</h3>
-      <p>This modal serves as a means to delete products in the system.</p>
+      <h6> Products Page > Delete inventory </h6>
+        <img src = "./mock-ups/delete-inventory.png" width='720' height='365'/>
+      <h3>Delete invenory</h3>
+      <p>This modal serves as a means to delete an inventory in the system.</p>
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Delete Product</th>
+          <th>Delete inventory</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -51,33 +51,33 @@
           <td><ul>
               <li>Current user must be logged in</li>
                 <li>Current user must be in the products page</li>
-                <li>Current user must be editing a product</li>
+                <li>Current user must be editing an inventory</li>
           </ul>
           </td>
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the 'Delete Product' button when editing a product</td>
+          <td>User clicks the 'Delete inventory' button when editing an inventory</td>
         </tr>
         <tr>
           <td><b>Basic Flow</b></td>
           <td>
             <ol>
               <li>User clicks the 'delete' button on the delete modal that pops up <br>
-              upon clicking the 'delete product' button</li>
+              upon clicking the 'delete inventory' button</li>
             </ol>
           </td>
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Product deletion aborted</strong>: Product will not be deleted and modal closes
+            <strong>Inventory deletion aborted</strong>: Product will not be deleted and modal closes
           </td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
           <td>
-            The product will be soft deleted, meaning it will still be in <br>the system but will not be displayed 
+            The inventory will be soft deleted, meaning it will still be in <br>the system but will not be displayed 
           </td>
         </tr>
         <tr>
