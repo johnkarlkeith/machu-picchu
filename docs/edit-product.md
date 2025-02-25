@@ -48,9 +48,12 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td>Current user must be logged in<br>
-            Current user must be in the products page<br>
-            There must be at least one existing product in the system
+          <td>
+          <ul>
+            <li>Current user must be logged in</li>
+            <li>Current user must be in the products page</li>
+            <li>There must be at least one existing product in the system</li>
+            </ul>
           </td>
         </tr>
         <tr>

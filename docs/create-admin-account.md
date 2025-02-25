@@ -48,7 +48,7 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td>Current logged-in user must have CEO-level privilege</td>
+          <td><ul><li>Current logged-in user must have CEO-level privilege</li></ul></td>
         </tr>
         <tr>
           <td>Triggers</td>

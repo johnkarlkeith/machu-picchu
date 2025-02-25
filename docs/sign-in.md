@@ -48,7 +48,7 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td>User must have an existing account</td>
+          <td><ul><li>User must have an existing account</li></ul></td>
         </tr>
         <tr>
           <td>Triggers</td>
