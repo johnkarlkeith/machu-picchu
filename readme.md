@@ -16,7 +16,7 @@
       &nbsp;&nbsp;<a href="./docs/edit-product.md">Edit product</a><br>
       &nbsp;&nbsp;<a href="./docs/delete-product.md">Delete product</a><br>
       &nbsp;&nbsp;<a href="./docs/add-inventory.md">Add inventory</a><br>
-      &nbsp;&nbsp;<a href="./docs/browse-inventory.md">Browse inventories</a><br>
+      &nbsp;&nbsp;<a href="./docs/browse-inventories.md">Browse inventories</a><br>
       &nbsp;&nbsp;<a href="./docs/edit-inventory.md">Edit inventory</a><br>
       &nbsp;&nbsp;<a href="./docs/delete-inventory.md">Delete inventory</a><br>
       &nbsp;&nbsp;<a href="./docs/add-category.md">Add category</a><br>
