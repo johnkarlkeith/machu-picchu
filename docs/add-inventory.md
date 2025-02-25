@@ -62,8 +62,8 @@
           <td><b>Basic Flow</b></td>
           <td>
             <ol>
-              <li>User queries the database for existing suppliers in the database and select a query result<br> from the dropdown that appears</li>
-              <li>User will set the price of the inventory of the product by entering the wholesale price and <br>doing one of the following</li>
+              <li>User queries the database for existing suppliers in the database and select a<br> query result from the dropdown that appears</li>
+              <li>User will set the price of the inventory of the product by <br>entering the wholesale price and doing one of the following</li>
                 <ul>
                     <li>Setting profit margin manually, retail price is calculated automatically</li>
                     <li>Setting retail price manually, profit margin is calculated automatically</li>
@@ -77,7 +77,7 @@
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Form submitted with empty optional fields</strong>: Inventory will be created but the description field <br>will be empty in the database
+            <strong>Form submitted with empty optional fields</strong>: Inventory will be created<br> but the description field will be empty in the database
           </td>
         </tr>
         <tr>
