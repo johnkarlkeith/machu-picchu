@@ -77,7 +77,7 @@
         <tr>
           <td><b>Postconditions</b></td>
           <td>
-            The product will be soft deleted, meaning it will still be in the system will not be displayed 
+            The product will be soft deleted, meaning it will still be in the <br>system will not be displayed 
           </td>
         </tr>
         <tr>
