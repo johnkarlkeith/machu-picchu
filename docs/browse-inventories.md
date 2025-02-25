@@ -69,7 +69,7 @@
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Edit is clicked on an inventory</strong>: This leads the user to the edit inventory modal discussed in detail <a href="./edit-inventory">here</a>
+            <strong>Edit is clicked on an inventory</strong>: This leads the user to the edit inventory modal <br>discussed in detail <a href="./edit-inventory">here</a>
           </td>
         </tr>
         <tr>
