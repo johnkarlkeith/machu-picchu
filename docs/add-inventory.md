@@ -89,7 +89,7 @@
         <tr>
           <td><b>Exceptions</b></td>
           <td>Server is down → System will display an error message<br>
-          Submitting with missing required fields → System will highlight missing fields <br>form will not be submitted
+          Submitting with missing required fields → System will highlight missing required fields
           </td>
         </tr>
         </table>
