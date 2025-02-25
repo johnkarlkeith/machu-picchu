@@ -35,7 +35,7 @@
     <td valign="top" >
       <h6> Products Page > Add product </h6>
         <img src = "./mock-ups/add-product.png" />
-      <h3>Create Product</h3>
+      <h3>Add Product</h3>
       <p>This modal serves as a means to create new products in the system.</p>
       <table border="1">
         <tr>
