@@ -71,8 +71,8 @@
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>User clicks on a product</strong>: A modal is shown that shows the product details such as price and description<br>
-            <strong>User filters the products</strong>: Will filter the products displayed based on filters selected by the user 
+            <strong>User clicks on a product</strong>: A modal is shown that shows the product <br> details such as price and description<br>
+            <strong>User filters the products</strong>: Will filter the products displayed <br> based on filters selected by the user 
           </td>
         </tr>
         <tr>
