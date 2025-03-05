@@ -73,7 +73,7 @@
           <td><b>Alternative Flow</b></td>
           <td><strong>Invalid Credentials</strong>: System shows an error message<br>
           <strong>Email already used</strong>: System shows email already used error message<br>
-          <strong>Account created without selecting an image</strong>: Account is still created but with default image as profile picture</strong>
+          <strong>Account created without selecting an image</strong>: Account is still created but <br>with default image as profile picture</strong>
           </td>
         </tr>
         <tr>
