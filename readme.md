@@ -16,10 +16,12 @@ TODO: create use cases for:
       <h2>Site Map</h2>
       <a href="./readme.md">Revisions</a><br><br>     
       Customer Page<br>
-      &nbsp;&nbsp;<a href="./docs/view-products.md">View Products</a><br><br>
+      &nbsp;&nbsp;<a href="./docs/view-products.md">View Products</a><br>
+      &nbsp;&nbsp;<a href="./docs/filter-products.md">Filter products</a><br><br>
       Admin Homepage<br>
       &nbsp;&nbsp;<a href="./docs/sign-in.md">Sign in</a><br><br>
       Products Page<br>
+      &nbsp;&nbsp;<a href="./filter-products.md">Filter products</a><br>
       &nbsp;&nbsp;<a href="./docs/add-product.md">Add product</a><br>
       &nbsp;&nbsp;<a href="./docs/edit-product.md">Edit product</a><br>
       &nbsp;&nbsp;<a href="./docs/delete-product.md">Delete product</a><br>

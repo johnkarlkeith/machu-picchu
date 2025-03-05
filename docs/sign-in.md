@@ -10,10 +10,12 @@
       <h2>Site Map</h2>
       <a href="../readme.md">Revisions</a><br><br>
       Customer Page<br>
-            &nbsp;&nbsp;<a href="./view-products.md">View Products</a><br><br>     
+            &nbsp;&nbsp;<a href="./view-products.md">View Products</a><br>
+            &nbsp;&nbsp;<a href="./filter-products.md">Filter products</a><br><br>    
       Admin Homepage<br>
       &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br>
       Products Page<br>
+      &nbsp;&nbsp;<a href="./filter-products.md">Filter products</a><br>
       &nbsp;&nbsp;<a href="./add-product.md">Add product</a><br>
       &nbsp;&nbsp;<a href="./edit-product.md">Edit product</a><br>
       &nbsp;&nbsp;<a href="./delete-product.md">Delete product</a><br>
