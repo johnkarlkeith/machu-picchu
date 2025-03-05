@@ -36,7 +36,7 @@
     </td>
     <td valign="top" >
       <h6> Customer Page </h6>
-        <img src = "./mock-ups/browse-inventories.png" width='720' height='365'/>
+        <img src = "./mock-ups/view-products.png" width='720' height='365'/>
       <h3>View Products</h3>
       <p>This page serves as a means to see the products currently available in the store</p>
       <table border="1">
