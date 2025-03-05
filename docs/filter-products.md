@@ -39,7 +39,7 @@
     <td valign="top" >
       <h6> Filter Products </h6>
         <img src = "./mock-ups/filter-products.png" width='720' height='365'/>
-      <h3>Filter Producuts</h3>
+      <h3>Filter Products</h3>
       <p>This component serves as a means to filter products that are seen</p>
       <table border="1">
         <tr>
