@@ -35,14 +35,14 @@
       &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
     </td>
     <td valign="top" >
-      <h6> Products Page > Delete supplier </h6>
-        <img src = "./mock-ups/delete-supplier.png" width='720' height='365'/>
-      <h3>Delete supplier</h3>
-      <p>This modal serves as a means to delete an supplier in the system.</p>
+      <h6> Customer Page </h6>
+        <img src = "./mock-ups/browse-inventories.png" width='720' height='365'/>
+      <h3>View Products</h3>
+      <p>This page serves as a means to see the products currently available in the store</p>
       <table border="1">
         <tr>
           <th>Use Case</th>
-          <th>Delete supplier</th>
+          <th>Browse inventories</th>
         </tr>
         <tr>
           <td><b>Actors</b></td>
@@ -50,36 +50,35 @@
         </tr>
         <tr>
           <td><b>Preconditions</b></td>
-          <td><ul>
-              <li>Current user must be logged in</li>
-                <li>Current user must be in the products page</li>
-                <li>Current user must be editing an supplier</li>
+          <td>
+          <ul>
+              <li>Current user must be in the customer page (index)</li>
           </ul>
           </td>
         </tr>
         <tr>
           <td>Triggers</td>
-          <td>User clicks the 'Delete supplier' button when editing an supplier</td>
+          <td>None</td>
         </tr>
         <tr>
           <td><b>Basic Flow</b></td>
           <td>
-            <ol>
-              <li>User clicks the 'delete' button on the delete modal that pops up <br>
-              upon clicking the 'delete supplier' button</li>
-            </ol>
+            <ul>
+                <li>User scrolls to view the available products of the honesty store</li>
+            </ul>
           </td>
         </tr>
         <tr>
           <td><b>Alternative Flow</b></td>
           <td>
-            <strong>Supplier deletion aborted</strong>: Product will not be deleted and modal closes
+            <strong>User clicks on a product</strong>: A modal is shown that shows the product details such as price and description<br>
+            <strong>User filters the products</strong>: Will filter the products displayed based on filters selected by the user 
           </td>
         </tr>
         <tr>
           <td><b>Postconditions</b></td>
           <td>
-            The supplier will be soft deleted, meaning it will still be in <br>the system but will not be displayed 
+            None
           </td>
         </tr>
         <tr>

@@ -10,7 +10,7 @@
       <h2>Site Map</h2>
       <a href="../readme.md">Revisions</a><br><br>
       Customer Page<br>
-            &nbsp;&nbsp;<a href="./docs/viewproducts.md">View Products</a><br><br>     
+            &nbsp;&nbsp;<a href="./view-products.md">View Products</a><br><br>     
       Admin Homepage<br>
       &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br>
       Products Page<br>
