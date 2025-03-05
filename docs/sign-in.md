@@ -13,7 +13,7 @@
             &nbsp;&nbsp;<a href="./view-products.md">View Products</a><br>
             &nbsp;&nbsp;<a href="./filter-products.md">Filter products</a><br><br>    
       Admin Homepage<br>
-      &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br>
+      &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br><br>
       Products Page<br>
       &nbsp;&nbsp;<a href="./filter-products.md">Filter products</a><br>
       &nbsp;&nbsp;<a href="./add-product.md">Add product</a><br>
