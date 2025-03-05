@@ -10,31 +10,31 @@
           <h2>Site Map</h2>
           <a href="./readme.md">Revisions</a><br><br>
           Customer Page<br>
-          &nbsp;&nbsp;<a href="./docs/viewproducts.md">View Products</a><br><br>     
+          &nbsp;&nbsp;<a href="./viewproducts.md">View Products</a><br><br>     
           Customer Page<br>
-          &nbsp;&nbsp;<a href="./docs/viewproducts.md">View Products</a><br><br>
+          &nbsp;&nbsp;<a href="./viewproducts.md">View Products</a><br><br>
           Admin Homepage<br>
-          &nbsp;&nbsp;<a href="./docs/sign-in.md">Sign in</a><br><br>
+          &nbsp;&nbsp;<a href="./sign-in.md">Sign in</a><br><br>
           Products Page<br>
-          &nbsp;&nbsp;<a href="./docs/add-product.md">Add product</a><br>
-          &nbsp;&nbsp;<a href="./docs/edit-product.md">Edit product</a><br>
-          &nbsp;&nbsp;<a href="./docs/delete-product.md">Delete product</a><br>
-          &nbsp;&nbsp;<a href="./docs/add-inventory.md">Add inventory</a><br>
-          &nbsp;&nbsp;<a href="./docs/browse-inventories.md">Browse inventories</a><br>
-          &nbsp;&nbsp;<a href="./docs/edit-inventory.md">Edit inventory</a><br>
-          &nbsp;&nbsp;<a href="./docs/delete-inventory.md">Delete inventory</a><br>
-          &nbsp;&nbsp;<a href="./docs/add-category.md">Add category</a><br>
-          &nbsp;&nbsp;<a href="./docs/edit-category.md">Edit category</a><br>
-          &nbsp;&nbsp;<a href="./docs/delete-category.md">Delete category</a><br>
-          &nbsp;&nbsp;<a href="./docs/add-supplier.md">Add supplier</a><br>
-          &nbsp;&nbsp;<a href="./docs/edit-supplier.md">Edit supplier</a><br>
-          &nbsp;&nbsp;<a href="./docs/delete-supplier.md">Delete supplier</a><br>
-          &nbsp;&nbsp;<a href="./docs/create-inventory-report.md">Create Inventory Report</a><br><br>
+          &nbsp;&nbsp;<a href="./add-product.md">Add product</a><br>
+          &nbsp;&nbsp;<a href="./edit-product.md">Edit product</a><br>
+          &nbsp;&nbsp;<a href="./delete-product.md">Delete product</a><br>
+          &nbsp;&nbsp;<a href="./add-inventory.md">Add inventory</a><br>
+          &nbsp;&nbsp;<a href="./browse-inventories.md">Browse inventories</a><br>
+          &nbsp;&nbsp;<a href="./edit-inventory.md">Edit inventory</a><br>
+          &nbsp;&nbsp;<a href="./delete-inventory.md">Delete inventory</a><br>
+          &nbsp;&nbsp;<a href="./add-category.md">Add category</a><br>
+          &nbsp;&nbsp;<a href="./edit-category.md">Edit category</a><br>
+          &nbsp;&nbsp;<a href="./delete-category.md">Delete category</a><br>
+          &nbsp;&nbsp;<a href="./add-supplier.md">Add supplier</a><br>
+          &nbsp;&nbsp;<a href="./edit-supplier.md">Edit supplier</a><br>
+          &nbsp;&nbsp;<a href="./delete-supplier.md">Delete supplier</a><br>
+          &nbsp;&nbsp;<a href="./create-inventory-report.md">Create Inventory Report</a><br><br>
           Manage page<br>
-          &nbsp;&nbsp;<a href="./docs/create-report.md">Create Report</a><br>
-          &nbsp;&nbsp;<a href="./docs/create-audit.md">Create Audit</a><br><br>
+          &nbsp;&nbsp;<a href="./create-report.md">Create Report</a><br>
+          &nbsp;&nbsp;<a href="./create-audit.md">Create Audit</a><br><br>
           Manage Accounts Page<br>
-          &nbsp;&nbsp;<a href="./docs/create-admin-account.md">Create Admin Account</a><br><br>
+          &nbsp;&nbsp;<a href="./create-admin-account.md">Create Admin Account</a><br><br>
         </td>
         <td valign="top" >
       <h6> Products Page > Add product </h6>
