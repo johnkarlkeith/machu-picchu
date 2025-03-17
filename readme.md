@@ -1,6 +1,7 @@
 # Macchu Pichu
 
 Project Macchu Pichu is an E-Commerce platform specialized for honesty stores. Features include inventory management, financial tracking, and account roles
+<<<<<<< HEAD
 
 | **Internal Release Code** | **Date Released** |
 | ------------------------- | ----------------- |
@@ -31,3 +32,9 @@ Project Macchu Pichu is an E-Commerce platform specialized for honesty stores. F
 Important Links:
 
 - Design Specs: https://github.com/johnkarlkeith/machu-picchu-dev
+=======
+
+| **Internal Release Code** | **Date Released** |
+| ------------------------- | ----------------- |
+|                           |                   |
+>>>>>>> 0967f0663f744647ade6ccf69f1330b69add319f
