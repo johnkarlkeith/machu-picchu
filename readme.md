@@ -1,4 +1,4 @@
-# Macchu Pichu
+# Machu Picchu
 
 Project Macchu Pichu is an E-Commerce platform specialized for honesty stores. Features include inventory management, financial tracking, and account roles
 
