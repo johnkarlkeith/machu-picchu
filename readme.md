@@ -4,7 +4,17 @@ Project Macchu Pichu is an E-Commerce platform specialized for honesty stores. F
 
 | **Internal Release Code** | **Date Released** |
 | ------------------------- | ----------------- |
-| MP.010.001                | 2025-12-10        |
+| MP.010.001                | 2025-03-10        |
+| MP.020.001                | 2025-05-03        |
+
+### MP.020.001 Release Notes
+
+---
+
+- Refactored front-end architecture
+- Enhanced API performance and structure
+- Improved overall UI/UX for a more intuitive user experience
+- Implemented Role-Based Access Control (RBAC) feature
 
 ### MP.010.001 Release Notes
 
